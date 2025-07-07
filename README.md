@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying Computer Science at university.<br>🧑‍🤝‍🧑 I’m looking to collaborate on coding projects and small tech challenges<br>🌱 I’m currently learning about algorithms, database management, and backend development.<br>💬 Ask me about my journey into tech and the challenges of learning programming!<br>⚡ Fun fact: I love solving logic puzzles and can spend hours debugging just for the fun of it!
+#  About Me:
+I’m currently studying Computer Science at university.<br>🧑‍🤝‍🧑 I’m looking to collaborate on coding projects and small tech challenges<br>🌱 I’m currently learning about algorithms, database management, and backend development.<br>💬 Ask me about my journey into tech and the challenges of learning programming!<br>⚡ Fun fact: I love solving logic puzzles and can spend hours debugging just for the fun of it!
 
 
 ## 🌐 Socials:
