@@ -1,19 +1,66 @@
-#  About Me:
-I’m currently studying Computer Science at university.<br>I’m looking to collaborate on coding projects and small tech challenges<br>I’m currently learning about algorithms, database management, and backend development.<br>💬 Ask me about my journey into tech and the challenges of learning programming!<br>
+## Hi, I'm Badriddin 👋
 
+**Fullstack developer** — TypeScript · React / Next.js · Node.js · Django.
+I build products end to end: interface, API, database, Telegram bots, deployment.
+Almost 2 years of commercial experience at Osiyo Tech; Computer Science student in Samarkand.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baxrilloeev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/badriddin-baxrilloev-019107269) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frozeshkh@gmail.com) 
+📍 Samarkand, Uzbekistan · 🌍 Open to remote work · 🗣 Uzbek, Russian, English (B2)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baxr1lloev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=baxr1lloev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baxr1lloev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Telegram](https://img.shields.io/badge/Telegram-@baxrilloev-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/baxrilloev)
+[![Email](https://img.shields.io/badge/Email-bbaxrilloev@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bbaxrilloev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badriddin_Baxrilloev-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badriddin-baxrilloev-019107269)
 
-###
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Stack
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593d88?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092e20?style=flat-square&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots_&_Mini_Apps-26a5e4?style=flat-square&logo=telegram&logoColor=white)
 
+### Featured work
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+#### 🍽 Navbatsiz — order ahead, skip the queue
+**[navbatsiz.vercel.app](https://navbatsiz.vercel.app)** · private repository
+
+A food pre-order and table-ordering service for Uzbekistan. Guests order and pay ahead or
+scan a QR code on the table; venues run everything from a Telegram bot and a web cabinet.
+
+- Guest web app that also runs as a **Telegram Mini App**: catalog, cart, live order status,
+  QR scanner, 4 languages
+- **Telegram bot** for venues: menu import from text, Excel or a photo of a paper menu (Claude API),
+  order cards that update for the whole staff, roles for owners and cashiers
+- **Owner cabinet**: orders, menu, tables with printable QR codes, reports with Excel export
+- Kitchen display and TV board, Payme / Click integration with fiscal receipt data
+- **Next.js · Django REST · PostgreSQL · Docker Compose on Azure · Vercel**
+
+</td>
+<td width="38%" align="center">
+<img src="assets/navbatsiz.jpg" alt="Navbatsiz guest app" width="260">
+</td>
+</tr>
+</table>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Maktab Infra**](https://github.com/baxr1lloev/maktab-info) | Telegram Mini App + bot for reporting school infrastructure problems: HMAC-verified requests, photo pipeline, moderation and before/after posts in Telegram | Next.js 16 · Prisma · PostgreSQL · Telegraf |
+| [**Yangi Samarqand**](https://github.com/baxr1lloev/yangisamarkand) · [live](https://yangisamarkand.vercel.app) | Website of the Center for Entrepreneurship Development in Samarkand, 3 languages, content managed from Django admin, CI/CD to Azure | Next.js 16 · Django REST · GSAP |
+| [**Outland Travel**](https://github.com/baxr1lloev/plane_outlandtravel) · [live](https://plane-ruby-five.vercel.app) | Airline landing with a 192-frame scroll-driven canvas animation | Next.js 16 · TypeScript · GSAP · Framer Motion |
+| [**Million Motors**](https://github.com/baxr1lloev/millionmotors) · [live](https://millionmotors.vercel.app) | Landing page for a car and EV dealership | Next.js · Tailwind CSS · Framer Motion |
+
+<p>
+<a href="https://yangisamarkand.vercel.app"><img src="assets/yangi.jpg" alt="Yangi Samarqand" width="49%"></a>
+<a href="https://plane-ruby-five.vercel.app"><img src="assets/plane.jpg" alt="Outland Travel" width="49%"></a>
+</p>
