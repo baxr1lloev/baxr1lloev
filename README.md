@@ -8,7 +8,6 @@ Almost 2 years of commercial experience at Osiyo Tech; Computer Science student 
 
 [![Telegram](https://img.shields.io/badge/Telegram-@baxrilloev-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/baxrilloev)
 [![Email](https://img.shields.io/badge/Email-bbaxrilloev@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bbaxrilloev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badriddin_Baxrilloev-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badriddin-baxrilloev-019107269)
 [![GREEN-API certified](https://img.shields.io/badge/GREEN--API-certified_developer-3d9a05?style=flat-square)](https://green-api.com/certificates/developer/df43c968e3bc47b4.pdf)
 
 ### Stack
