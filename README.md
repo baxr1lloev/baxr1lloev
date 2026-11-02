@@ -60,6 +60,28 @@ owners from a web cabinet.
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://baxr1lloev.github.io/m4-s58-teardown/"><img src="https://github.com/baxr1lloev/m4-s58-teardown/raw/main/docs/m4.gif" alt="BMW M4 scroll teardown" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+
+#### 🏎 BMW M4 — scroll teardown
+**[Open and scroll](https://baxr1lloev.github.io/m4-s58-teardown/)** · [code](https://github.com/baxr1lloev/m4-s58-teardown)
+
+A black M4 Competition (G82) in a dark studio. Scrolling dissolves the body into x-ray; the S58
+inside runs from its real dimensions (bore 84 × stroke 90 mm, firing order 1‑5‑3‑6‑2‑4), then
+lifts out of the bay and comes apart.
+
+- The scroll is the timeline: one pure `render(t)` drives camera, dissolve and explode
+- GLSL dissolve and fresnel x-ray over a glTF model; the engine is procedural, posed from one crank angle
+- **three.js · GLSL · glTF / meshopt · GitHub Pages**
+
+</td>
+</tr>
+</table>
+
 | Project | What it is | Stack |
 |---|---|---|
 | [**Maktab Infra**](https://github.com/baxr1lloev/maktab-info) | Telegram Mini App + bot for reporting school infrastructure problems: HMAC-verified requests, photo pipeline, moderation and before/after posts in Telegram | Next.js 16 · Prisma · PostgreSQL · Telegraf |
