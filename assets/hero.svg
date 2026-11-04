@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Badriddin Baxrilloyev — Fullstack developer">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .name { font-size: 54px; font-weight: 800; fill: #fafafa; letter-spacing: -1.5px; }
+    .role { font-size: 22px; font-weight: 600; fill: #ff8a3d; letter-spacing: 3px; }
+    .line { font-size: 26px; font-weight: 500; fill: #d4d4d8; opacity: 0; }
+    .meta { font-size: 16px; fill: #a1a1aa; }
+    .l1 { animation: cycle 12s infinite 0s; }
+    .l2 { animation: cycle 12s infinite 3s; }
+    .l3 { animation: cycle 12s infinite 6s; }
+    .l4 { animation: cycle 12s infinite 9s; }
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(14px); }
+      4%, 21% { opacity: 1; transform: translateY(0); }
+      25%, 100% { opacity: 0; transform: translateY(-14px); }
+    }
+    .ticket { animation: float 6s ease-in-out infinite; transform-origin: 965px 180px; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0) rotate(-7deg); }
+      50% { transform: translateY(-14px) rotate(-4deg); }
+    }
+    .glow { animation: pulse 6s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .55; } 50% { opacity: .9; } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .shine { animation: shine 6s ease-in-out infinite; }
+    @keyframes shine { 0%, 60% { transform: translateX(-260px); } 85%, 100% { transform: translateX(260px); } }
+  </style>
+  <defs>
+    <radialGradient id="g" cx="80%" cy="50%" r="55%">
+      <stop offset="0" stop-color="#ff8a3d" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#ff8a3d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+    <linearGradient id="sh" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="tc"><rect x="840" y="110" width="250" height="140" rx="10"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="#0b0b0f"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect class="glow" width="1200" height="360" rx="20" fill="url(#g)"/>
+
+  <text class="role" x="64" y="92">FULLSTACK DEVELOPER</text>
+  <text class="name" x="62" y="158">Badriddin Baxrilloyev</text>
+
+  <g transform="translate(64 214)">
+    <text class="line l1" y="0">I ship products end to end — UI, API, database, deploy.</text>
+    <text class="line l2" y="0">Next.js · React · TypeScript · Django · PostgreSQL</text>
+    <text class="line l3" y="0">Telegram bots &amp; Mini Apps · Payme / Click payments</text>
+    <text class="line l4" y="0">Tests first · CI/CD · products that are live, not just repos</text>
+  </g>
+
+  <text class="meta" x="64" y="296">Samarkand, Uzbekistan   ·   Open to remote   ·   Uzbek · Russian · English</text>
+  <rect class="caret" x="64" y="312" width="12" height="3" fill="#ff8a3d"/>
+
+  <g class="ticket">
+    <rect x="846" y="118" width="250" height="140" rx="10" fill="#000" opacity=".35"/>
+    <rect x="840" y="110" width="250" height="140" rx="10" fill="#ff8a3d"/>
+    <line x1="862" y1="122" x2="862" y2="238" stroke="#0b0b0f" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 5"/>
+    <text x="975" y="190" text-anchor="middle" font-size="64" font-weight="900" fill="#0b0b0f" letter-spacing="-1">042</text>
+    <text x="975" y="222" text-anchor="middle" font-size="15" font-weight="700" fill="#0b0b0f" letter-spacing="4">READY</text>
+    <g clip-path="url(#tc)"><rect class="shine" x="840" y="110" width="90" height="140" fill="url(#sh)"/></g>
+  </g>
+  <text x="965" y="300" text-anchor="middle" class="meta" font-size="14">navbatsiz.app — my flagship product</text>
+</svg>
