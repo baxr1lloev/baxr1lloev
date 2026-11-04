@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Badriddin Baxrilloyev — Fullstack developer" width="100%">
+  <img src="assets/hero.svg" alt="Badriddin Baxrilloev — Fullstack developer" width="100%">
 </p>
 
 <p align="center">
