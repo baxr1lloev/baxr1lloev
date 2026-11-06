@@ -12,7 +12,7 @@
 
 - **I ship whole products, not just tickets.** Navbatsiz below is mine end to end: guest app, staff Telegram bot,
   owner cabinet, payments, server, backups and CI/CD.
-- **I write tested code.** 3,400+ backend tests on PostgreSQL; every push to `main` passes CI and a health check before it goes live.
+- **I write tested code.** 4,000+ backend tests on PostgreSQL and 370+ web tests; every push to `main` passes CI and a health check before it goes live.
 - **I handle money and concurrency carefully.** Payme and Click payments with refunds, orders guarded by row and advisory locks.
 - **I build for real people in real languages.** Interfaces in Uzbek (Latin and Cyrillic), Russian and English.
 - Almost 2 years of commercial experience at Osiyo Tech · Computer Science student · open to remote work.
@@ -28,23 +28,26 @@
 </td>
 <td width="66%" valign="top">
 
-**[navbatsiz.app](https://navbatsiz.app)** · [company site](https://navbatsiz-site.vercel.app) · private repository
+**[navbatsiz.app](https://navbatsiz.app)** · [company site](https://business.navbatsiz.app) · private repository
 
 A food pre-order and table-ordering platform for cafés in Uzbekistan. Guests order and pay
 from their phone and pick up by number, or scan the QR code on the table and order from their seat.
-Staff get every order in Telegram, on the kitchen screen and on a TV board.
+Staff get every order in Telegram, on their own web screens, on the kitchen screen and on a TV board.
 
 - 📱 **Guest app**, also a Telegram Mini App: catalog, cart, live order status, SMS sign-in,
   one-time pickup QR, an open bill at the table, 4 languages
-- 🪑 **Bookings** on a floor plan of the hall; waiter shifts, zones and order routing
-- 🤖 **Telegram bot** for staff: live order cards, waiter calls, menu import from text, Excel
-  or a photo of a paper menu (Claude API)
+- 🪑 **Live hall**: the venue's own floor plan with free and taken tables and guest counts,
+  refreshed every 30 s; guests book a table right on the plan and get a booking ticket
+- 🧑‍🍳 **Waiter web screens**: the hall as tiles, calls answered in one tap, payment in four taps,
+  the check beside the menu while ordering; shifts, zones and order routing
+- 🤖 **Telegram bot** for staff: live order cards, waiter calls that open an order for the guest who called,
+  menu import from text, Excel or a photo of a paper menu (Claude API)
 - 📊 **Owner cabinet**: menu, printable QR signs, roles and permissions, reports with Excel
   export, an action log, feature plans per venue
 - 💳 Payme / Click payments and refunds · 🍳 kitchen display · 📺 TV board
-- 🛡 3,400+ tests · CI/CD on GitHub Actions · encrypted nightly backups
+- 🛡 4,000+ backend and 370+ web tests · CI/CD on GitHub Actions · encrypted nightly backups
 
-`Next.js 16` `React 19` `TypeScript` `Django 5 / DRF` `PostgreSQL` `Docker Compose` `Caddy` `Cloudflare` `Vercel`
+`Next.js 16` `React 19` `TypeScript` `Django 5 / DRF` `PostgreSQL` `Redis` `Docker Compose` `Cloudflare Tunnel & R2` `Vercel`
 
 </td>
 </tr>
@@ -52,11 +55,19 @@ Staff get every order in Telegram, on the kitchen screen and on a TV board.
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top"><img src="assets/nb_home.png" alt="Navbatsiz home screen" width="100%"><br><sub>Places, categories, filters</sub></td>
-<td width="25%" align="center" valign="top"><img src="assets/nb_venue.png" alt="Navbatsiz venue page" width="100%"><br><sub>Venue: ready time, map, booking, menu</sub></td>
-<td width="50%" align="center" valign="top"><img src="assets/site.gif" alt="Navbatsiz company website" width="100%"><br><sub>Company website: Next.js 16, Motion, three.js</sub></td>
+<td width="33%" align="center" valign="top"><img src="assets/nb_home.png" alt="Navbatsiz home screen" width="100%"><br><sub>Catalog: places, categories, filters</sub></td>
+<td width="33%" align="center" valign="top"><img src="assets/nb_venue.png" alt="Navbatsiz venue page with the live hall" width="100%"><br><sub>Venue: ready time, booking ticket, live hall</sub></td>
+<td width="33%" align="center" valign="top"><img src="assets/nb_book.png" alt="Navbatsiz table booking on the hall plan" width="100%"><br><sub>Booking: pick a table on the plan</sub></td>
+</tr>
+<tr>
+<td colspan="3" align="center"><sub>Live screens of navbatsiz.app. Burger King is our own test venue, not a customer.</sub></td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://business.navbatsiz.app"><img src="assets/site.gif" alt="Navbatsiz company website" width="100%"></a><br>
+  <sub>Company website: six scenes you can touch · Next.js 16, React 19, a hand-written tween kit, Lenis</sub>
+</p>
 
 ---
 
